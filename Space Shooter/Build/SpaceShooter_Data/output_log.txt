@@ -1,0 +1,1468 @@
+Mono path[0] = 'C:/Users/Temesgen/Desktop/Space Shooter/Build/SpaceShooter_Data/Managed'
+Mono path[1] = 'C:/Users/Temesgen/Desktop/Space Shooter/Build/SpaceShooter_Data/Mono'
+Mono config path = 'C:/Users/Temesgen/Desktop/Space Shooter/Build/SpaceShooter_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Temesgen/Desktop/Space Shooter/Build/SpaceShooter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55463
+Multi-casting "[IP] 192.168.1.3 [Port] 55463 [Flags] 3 [Guid] 4047693015 [EditorId] 872939327 [Version] 1048832 [Id] WindowsPlayer(Temesgen-PC) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55463]...
+PlayerConnection accepted from [192.168.1.3] handle:0x3b4
+Started listening to [0.0.0.0:55463]
+PlayerConnection already initialized - listening to [0.0.0.0:55463]
+Player data archive not found at `C:/Users/Temesgen/Desktop/Space Shooter/Build/SpaceShooter_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Temesgen\Desktop\Space Shooter\Build\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.929818 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1994 -> priority: 1 
+  Thread -> id: 23dc -> priority: 1 
+  Thread -> id: 2dd8 -> priority: 1 
+  Thread -> id: 3790 -> priority: 1 
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Player
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475923 ms
+System memory in use before: 23.9 MB.
+System memory in use after: 23.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.234887 ms (FindLiveObjects: 0.031250 ms CreateObjectMapping: 0.025358 ms MarkObjects: 0.171363 ms  DeleteObjects: 0.006147 ms)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Player
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312244 ms
+System memory in use before: 23.9 MB.
+System memory in use after: 23.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.224385 ms (FindLiveObjects: 0.024334 ms CreateObjectMapping: 0.035604 ms MarkObjects: 0.155738 ms  DeleteObjects: 0.008196 ms)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Player
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323515 ms
+System memory in use before: 23.9 MB.
+System memory in use after: 23.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.218238 ms (FindLiveObjects: 0.022028 ms CreateObjectMapping: 0.011526 ms MarkObjects: 0.178791 ms  DeleteObjects: 0.004866 ms)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Bolt(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Player
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
+Boundary
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DestroybyContact:OnTriggerEnter(Collider) (at C:\Users\Temesgen\Desktop\Space Shooter\Assets\Assets\Scripts\DestroybyContact.cs:27)
+ 
+(Filename: C:/Users/Temesgen/Desktop/Space Shooter/Assets/Assets/Scripts/DestroybyContact.cs Line: 27)
+
