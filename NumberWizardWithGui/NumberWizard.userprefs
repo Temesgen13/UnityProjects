@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\GameRepos\NumberWizard\Assets\NumberWizards.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NumberWizards.cs">
     <Files>
-      <File FileName="..\..\GameRepos\NumberWizard\Assets\NumberWizards.cs" Line="34" Column="36" />
+      <File FileName="Assets\NumberWizards.cs" Line="34" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
