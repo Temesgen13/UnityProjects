@@ -30,12 +30,13 @@ public class NumberWizards : MonoBehaviour {
 
 	
 	void updateGuess(){
-		guess = (max + min)/2;
+		//guess = (max + min)/2;
+		guess = Random.Range(min, max+1);
 		guessText.text = guess.ToString();
 		maxGuesses--;
 		
 		if (maxGuesses == 0){
-		
+			maxGuesses = 10;
 			Application.LoadLevel("Win");
 		}
 	//	print ("Higher or lower than " +  guess);	
@@ -45,7 +46,8 @@ public class NumberWizards : MonoBehaviour {
 	void StartGame () {
 		max = 1001;
 		min  = 1;
-		guess = 500;
+		guess = Random.Range(1, 1001);
+		guessText.text = guess.ToString();
 		print ("==================================================== \nWelcome to Number Wizard");
 		print ("Pick a number in your head... but don't tell me!");	
 		print ("The highest number you can pick is 1000");
