@@ -17,4 +17,15 @@ public class LevelManager : MonoBehaviour {
 		Debug.Log("Quitting...");
 		Application.Quit();
 	}
+	
+	public void LoadNextLevel(){
+		Application.LoadLevel(Application.loadedLevel +1);
+	}
+	
+	public void BrickDestroy(){
+	
+		if(Briick.breakableCount <= 0){
+			LoadNextLevel();
+		}
+	}
 }
